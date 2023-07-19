@@ -1,6 +1,6 @@
 ---
-title:"React中的虚拟dom和diff算法"
-tags:TeXt
+title: "React中的虚拟dom和diff算法"
+tags: TeXt
 ---
 
 # JSX的本质

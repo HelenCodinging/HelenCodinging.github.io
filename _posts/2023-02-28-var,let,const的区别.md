@@ -1,6 +1,6 @@
 ---
-title："let、const、var的区别"
-tags:"TeXt"
+title: "let、const、var的区别"
+tags: TeXt
 ---
 
 # let和const产生的背景
